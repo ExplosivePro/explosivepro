@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Greeting from a Explosive Expert</h1>
+<h1 align="center">Hi 👋, Greeting from an Explosive Expert</h1>
 
 <p align="center">
   <img align="center" src="logo.png" style = "width: 800px;"/>
