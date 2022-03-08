@@ -27,6 +27,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.solidjs.com/assets/logo.123b04bc.svg" alt="solidjs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/63/Java_avatar.png" alt="java" width="40"/> </a>
 <a href="https://www.djangoproject.com/start/overview/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/> </a>
 <a href="https://www.djangoproject.com/start/overview/" target="_blank" rel="noreferrer"> <img src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg" alt="Django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
