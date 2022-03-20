@@ -54,7 +54,7 @@
 # Profile
 Goal-oriented and self-motivated full stack developer with rich experience in web, game and app development.
 
-Working for comapnies gave me the power to develop a well organized project with great performance. Love challenges and new technologies. Capable of handling medium and large-scale projects.
+Working for companies gave me the power to develop a well organized project with great performance. Love challenges and new technologies. Capable of handling medium and large-scale projects.
 Have the eye of the owner; being able to change position on the owner's position.
 
 ✔️ Front-end(React.js, React Native, Vue.js, Tailwind CSS, Next.js, Nuxt.js, Angular, Solid.js)
