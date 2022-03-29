@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently free now.
 
-- 🌱 I’m currently learning **Rust, Solana, Blockchain, Smart Contract**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React, Node**
 
