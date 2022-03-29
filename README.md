@@ -44,9 +44,9 @@
 </p>
 <h1 align="center"></h1>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=oshimaninja&show_icons=true&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=explosivepro&show_icons=true&theme=merko&count_private=true" />
 
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshimaninja&layout=compact&theme=merko&count_private=true&hide=python" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=explosivepro&layout=compact&theme=merko&count_private=true&hide=python" />
 <img align="center" height="150px"/>
 
 <br/>
