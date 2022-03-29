@@ -5,7 +5,7 @@
 </p>
 <h1 align="center"></h1>
 <h1 align="center" style="font-weight: bold">A passionate full stack developer</h1>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=explosivepro.explosivepro" />
 <h1 align="center"></h1>
 
 - 🔭 I’m currently free now.
